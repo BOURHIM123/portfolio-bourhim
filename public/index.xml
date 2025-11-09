@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fatima Bourhim</title>
+    <link>https://bourhim123.github.io/portfolio-bourhim/</link>
+    <description>Recent content on Fatima Bourhim</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bourhim123.github.io/portfolio-bourhim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audit de Sécurité d&#39;Application Web</title>
+      <link>https://bourhim123.github.io/portfolio-bourhim/projects/projet1/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://bourhim123.github.io/portfolio-bourhim/projects/projet1/</guid>
+      <description>Analyse complète des vulnérabilités d&amp;#39;une plateforme e-commerce</description>
+    </item>
+    <item>
+      <title>Développement d&#39;une Plateforme Sécurisée</title>
+      <link>https://bourhim123.github.io/portfolio-bourhim/projects/projet2/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://bourhim123.github.io/portfolio-bourhim/projects/projet2/</guid>
+      <description>Création d&amp;#39;une application web avec mesures de sécurité avancées</description>
+    </item>
+    <item>
+      <title>Analyse de Vulnérabilités Réseau</title>
+      <link>https://bourhim123.github.io/portfolio-bourhim/projects/projet3/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://bourhim123.github.io/portfolio-bourhim/projects/projet3/</guid>
+      <description>Scan et analyse des vulnérabilités sur un réseau d&amp;#39;entreprise</description>
+    </item>
+    <item>
+      <title>À propos</title>
+      <link>https://bourhim123.github.io/portfolio-bourhim/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bourhim123.github.io/portfolio-bourhim/about/</guid>
+      <description>&lt;h2 id=&#34;-parcours-académique&#34;&gt;🎓 Parcours Académique&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Master Ingénierie Informatique et Sécurité des Systèmes&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Université Paris Cité - 2023-2025&lt;/em&gt;&lt;br&gt;
+Spécialisation en sécurité des réseaux et cryptographie&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Licence en Informatique&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Université Sorbonne - 2020-2023&lt;/em&gt;&lt;br&gt;
+Mention Très Bien&lt;/p&gt;
+&lt;h2 id=&#34;-compétences-techniques&#34;&gt;💻 Compétences Techniques&lt;/h2&gt;
+&lt;h3 id=&#34;sécurité&#34;&gt;Sécurité&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pentesting&lt;/strong&gt; : Kali Linux, Metasploit, Burp Suite&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analyse&lt;/strong&gt; : Wireshark, Nmap, OWASP ZAP&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sécurité Web&lt;/strong&gt; : OWASP Top 10, CSP, HSTS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cryptographie&lt;/strong&gt; : AES, RSA, TLS/SSL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;développement&#34;&gt;Développement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Langages&lt;/strong&gt; : Python, Java, JavaScript, C++&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt; : HTML/CSS, React, Vue.js&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt; : Node.js, Express, Django&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bases de données&lt;/strong&gt; : MySQL, MongoDB, PostgreSQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;compétences-transversales&#34;&gt;Compétences Transversales&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Résolution de problèmes complexes&lt;/li&gt;
+&lt;li&gt;Travail en équipe agile&lt;/li&gt;
+&lt;li&gt;Rédaction technique&lt;/li&gt;
+&lt;li&gt;Gestion de projet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-objectif-professionnel&#34;&gt;🎯 Objectif Professionnel&lt;/h2&gt;
+&lt;p&gt;Je souhaite intégrer une équipe dynamique dans le domaine de la cybersécurité pour participer à la protection des systèmes d&amp;rsquo;information et développer des solutions sécurisées innovantes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://bourhim123.github.io/portfolio-bourhim/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bourhim123.github.io/portfolio-bourhim/contact/</guid>
+      <description>&lt;h2 id=&#34;-contactez-moi&#34;&gt;📞 Contactez-moi&lt;/h2&gt;
+&lt;p&gt;N&amp;rsquo;hésitez pas à me contacter pour discuter d&amp;rsquo;opportunités ou de collaborations !&lt;/p&gt;
+&lt;h3 id=&#34;-informations-de-contact&#34;&gt;📧 Informations de Contact&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt; : &lt;a href=&#34;mailto:votre.email@domain.com&#34;&gt;votre.email@domain.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Téléphone&lt;/strong&gt; : +33 6 12 34 56 78&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Localisation&lt;/strong&gt; : Paris, France&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-réseaux-professionnels&#34;&gt;🌐 Réseaux Professionnels&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt; : &lt;a href=&#34;https://linkedin.com/in/votrenom&#34;&gt;linkedin.com/in/votrenom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt; : &lt;a href=&#34;https://github.com/votreusername&#34;&gt;github.com/votreusername&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-disponibilités&#34;&gt;💼 Disponibilités&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Recherche&lt;/strong&gt; : Stage/Alternance en cybersécurité&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Durée&lt;/strong&gt; : 4-6 mois&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Type&lt;/strong&gt; : Présentiel ou Hybride&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;La sécurité est un processus, pas un produit.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
