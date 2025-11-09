@@ -3,6 +3,10 @@ languageCode: 'fr-fr'
 title: 'Fatima Bourhim' 
 theme: 'PaperMod'
 
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
+
 params:
   profileMode:
     enabled: true
@@ -12,8 +16,6 @@ params:
     imageWidth: 180
     imageHeight: 180
     imageTitle: 'Photo de profil'
-
-   
 
   homeInfoParams:
     Title: ""
@@ -27,12 +29,9 @@ params:
   showShareButtons: false
   showReadingTime: false
   showBreadCrumbs: false
-
   showPostNav: true
   showCodeCopyButtons: true
-  module:
-  imports:
-  - path: github.com/adityatelange/hugo-PaperMod
+
   socialIcons:
     - name: "github"
       url: "https://github.com/votreusername"
